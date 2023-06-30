@@ -1,2 +1,5 @@
-# gruvbox-polybar
-Gruvbox Material Polybar theme. Credits: https://github.com/sainnhe/gruvbox-material
+# Gruvbox Material Polybar
+Gruvbox Material Polybar theme
+
+# Credit
+- https://github.com/sainnhe/gruvbox-material
